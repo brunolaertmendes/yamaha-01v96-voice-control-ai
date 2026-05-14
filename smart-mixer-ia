@@ -1,0 +1,23 @@
+yamaha-01v96-voice-control-ai/
+│
+├── README.md
+├── requirements.txt
+├── .gitignore
+├── LICENSE
+│
+├── docs/
+│   ├── arquitetura.png
+│   ├── comandos.md
+│   └── instalacao.md
+│
+├── src/
+│   ├── main.py
+│   ├── midi_controller.py
+│   ├── voice_recognition.py
+│   └── ai_commands.py
+│
+├── models/
+│
+├── audio_samples/
+│
+└── tests/
